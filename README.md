@@ -2,7 +2,6 @@
 
 This is a collection of scripts to load diffrent test data to elasticsearch.
 
-```
 
 ## Wiki Dumps
 
